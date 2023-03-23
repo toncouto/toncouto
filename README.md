@@ -24,7 +24,7 @@
  <a href="https://www.linkedin.com/in/everton-couto-95b4aa236/" target="_blank"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
  </div>
  
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/toncouto/count.svg" /></p>
 
 
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
